@@ -1,0 +1,783 @@
+   0.001 2021-03-16 05:44:55; Factorio 1.1.27 (build 58240, linux64, headless)
+   0.001 Operating system: Linux
+   0.002 Program arguments: "/opt/factorio/bin/x64/factorio" "--port" "34197" "--server-settings" "/factorio/config/server-settings.json" "--server-banlist" "/factorio/config/server-banlist.json" "--rcon-port" "27015" "--server-whitelist" "/factorio/config/server-whitelist.json" "--use-server-whitelist" "--server-adminlist" "/factorio/config/server-adminlist.json" "--rcon-password" <private> "--server-id" "/factorio/config/server-id.json" "--start-server-load-latest" 
+   0.002 Read data path: /opt/factorio/data
+   0.002 Write data path: /factorio [352903/953851MB]
+   0.002 Binaries path: /opt/factorio/bin
+   0.009 System info: [CPU: AMD Ryzen 9 3900X 12-Core Processor, 24 cores, RAM: 51344 MB]
+   0.009 Environment: DISPLAY=<unset> WAYLAND_DISPLAY=<unset> DESKTOP_SESSION=<unset> XDG_SESSION_DESKTOP=<unset> XDG_CURRENT_DESKTOP=<unset> __GL_FSAA_MODE=<unset> __GL_LOG_MAX_ANISO=<unset> __GL_SYNC_TO_VBLANK=<unset> __GL_SORT_FBCONFIGS=<unset> __GL_YIELD=<unset>
+   0.009 Running in headless mode
+   0.947 Info ModManager.cpp:254: Found duplicate mod LogisticTrainNetwork, using higher version (1.15.5 > 1.15.4).
+   1.180 Info ModManager.cpp:254: Found duplicate mod rso-mod, using higher version (6.2.3 > 6.2.2).
+   1.259 Loading mod settings angelsaddons-shred 0.2.7 (settings.lua)
+   1.260 Loading mod settings bobenemies 1.1.1 (settings.lua)
+   1.261 Loading mod settings bobinserters 1.1.0 (settings.lua)
+   1.261 Loading mod settings flib 0.7.0 (settings.lua)
+   1.262 Loading mod settings helmod 0.12.5 (settings.lua)
+   1.264 Loading mod settings Todo-List 19.1.0 (settings.lua)
+   1.264 Loading mod settings Yuoki 1.1.2 (settings.lua)
+   1.265 Loading mod settings alien-biomes 0.6.4 (settings.lua)
+   1.266 Loading mod settings bobores 1.1.0 (settings.lua)
+   1.267 Loading mod settings bobtech 1.1.2 (settings.lua)
+   1.268 Loading mod settings LogisticTrainNetwork 1.15.5 (settings.lua)
+   1.269 Loading mod settings Nanobots 3.2.15 (settings.lua)
+   1.271 Loading mod settings bobplates 1.1.2 (settings.lua)
+   1.272 Loading mod settings rso-mod 6.2.3 (settings.lua)
+   1.273 Loading mod settings bobassembly 1.1.2 (settings.lua)
+   1.274 Loading mod settings bobelectronics 1.1.3 (settings.lua)
+   1.276 Loading mod settings boblogistics 1.1.2 (settings.lua)
+   1.277 Loading mod settings bobmining 1.1.1 (settings.lua)
+   1.278 Loading mod settings bobpower 1.1.1 (settings.lua)
+   1.279 Loading mod settings bobrevamp 1.1.2 (settings.lua)
+   1.281 Loading mod settings bobwarfare 1.1.2 (settings.lua)
+   1.282 Loading mod settings Actual_Craft_Time 0.5.9 (settings.lua)
+   1.283 Loading mod settings angelsrefining 0.11.19 (settings.lua)
+   1.285 Loading mod settings blueprint_flip_and_turn 101.8.6 (settings.lua)
+   1.286 Loading mod settings bobmodules 1.1.2 (settings.lua)
+   1.287 Loading mod settings bobvehicleequipment 1.1.2 (settings.lua)
+   1.288 Loading mod settings miniloader 1.13.1 (settings.lua)
+   1.290 Loading mod settings WideChests 3.3.0 (settings.lua)
+   1.292 Loading mod settings angelsinfiniteores 0.9.8 (settings.lua)
+   1.293 Loading mod settings angelspetrochem 0.9.17 (settings.lua)
+   1.294 Loading mod settings Squeak Through 1.8.2 (settings.lua)
+   1.295 Loading mod settings angelsaddons-storage 0.0.4 (settings.lua)
+   1.297 Loading mod settings angelsindustries 0.4.11 (settings.lua)
+   1.298 Loading mod settings PCPRedux 1.0.3 (settings.lua)
+   1.299 Loading mod settings angelsaddons-cab 0.2.6 (settings.lua)
+   1.301 Loading mod settings angelsaddons-mobility 0.0.6 (settings.lua)
+   1.302 Loading mod settings angelsrefining 0.11.19 (settings-updates.lua)
+   1.304 Loading mod settings angelspetrochem 0.9.17 (settings-updates.lua)
+   1.305 Loading mod settings angelsaddons-storage 0.0.4 (settings-updates.lua)
+   1.306 Loading mod settings angelsindustries 0.4.11 (settings-updates.lua)
+   1.308 Loading mod settings angelsaddons-mobility 0.0.6 (settings-updates.lua)
+   1.309 Loading mod settings angelsexploration 0.3.9 (settings-updates.lua)
+   1.318 Loading mod core 0.0.0 (data.lua)
+   1.361 Loading mod base 1.1.27 (data.lua)
+   1.578 Loading mod EvoGUI 0.4.601 (data.lua)
+   1.673 Loading mod WideChestsLogistic 1.2.0 (data.lua)
+   1.767 Loading mod AfraidOfTheDark 1.1.1 (data.lua)
+   1.870 Loading mod alien-biomes-hr-terrain 0.6.1 (data.lua)
+   1.973 Loading mod angelsaddons-nilaus 0.3.12 (data.lua)
+   2.060 Loading mod angelsaddons-shred 0.2.7 (data.lua)
+   2.167 Loading mod bobenemies 1.1.1 (data.lua)
+   2.269 Loading mod bobinserters 1.1.0 (data.lua)
+   2.371 Loading mod boblibrary 1.1.2 (data.lua)
+   2.479 Loading mod Exoskeleton Mark II 6.0.0 (data.lua)
+   2.579 Loading mod flib 0.7.0 (data.lua)
+   2.681 Loading mod FNEI 0.4.0 (data.lua)
+   2.785 Loading mod helmod 0.12.5 (data.lua)
+   2.904 Loading mod Todo-List 19.1.0 (data.lua)
+   3.013 Loading mod Yuoki 1.1.2 (data.lua)
+   3.161 Loading mod alien-biomes 0.6.4 (data.lua)
+   3.176 Script @__alien-biomes__/data.lua:4: Log mods once: {
+  Actual_Craft_Time = "0.5.9",
+  AfraidOfTheDark = "1.1.1",
+  CleanFloor = "1.1.0",
+  EvoGUI = "0.4.601",
+  ["Exoskeleton Mark II"] = "6.0.0",
+  FNEI = "0.4.0",
+  LogisticTrainNetwork = "1.15.5",
+  Nanobots = "3.2.15",
+  PCPRedux = "1.0.3",
+  ["Squeak Through"] = "1.8.2",
+  ["Todo-List"] = "19.1.0",
+  WideChests = "3.3.0",
+  WideChestsLogistic = "1.2.0",
+  Yuoki = "1.1.2",
+  ["alien-biomes"] = "0.6.4",
+  ["alien-biomes-hr-terrain"] = "0.6.1",
+  ["angelsaddons-cab"] = "0.2.6",
+  ["angelsaddons-mobility"] = "0.0.6",
+  ["angelsaddons-newlocales"] = "0.3.14",
+  ["angelsaddons-nilaus"] = "0.3.12",
+  ["angelsaddons-shred"] = "0.2.7",
+  ["angelsaddons-storage"] = "0.0.4",
+  angelsbioprocessing = "0.7.17",
+  angelsexploration = "0.3.9",
+  angelsindustries = "0.4.11",
+  angelsinfiniteores = "0.9.8",
+  angelspetrochem = "0.9.17",
+  angelsrefining = "0.11.19",
+  angelssmelting = "0.6.14",
+  base = "1.1.27",
+  blueprint_flip_and_turn = "101.8.6",
+  bobangel2021 = "0.2.3",
+  bobassembly = "1.1.2",
+  bobelectronics = "1.1.3",
+  bobenemies = "1.1.1",
+  bobequipment = "1.1.2",
+  bobinserters = "1.1.0",
+  boblibrary = "1.1.2",
+  boblocale = "1.1.3",
+  boblogistics = "1.1.2",
+  bobmining = "1.1.1",
+  bobmodules = "1.1.2",
+  bobores = "1.1.0",
+  bobplates = "1.1.2",
+  bobpower = "1.1.1",
+  bobrevamp = "1.1.2",
+  bobtech = "1.1.2",
+  bobvehicleequipment = "1.1.2",
+  bobwarfare = "1.1.2",
+  flib = "0.7.0",
+  helmod = "0.12.5",
+  miniloader = "1.13.1",
+  ["rso-mod"] = "6.2.3",
+  stdlib = "1.4.6"
+}
+   3.579 Loading mod bobequipment 1.1.2 (data.lua)
+   3.768 Loading mod bobores 1.1.0 (data.lua)
+   3.970 Loading mod bobtech 1.1.2 (data.lua)
+   4.166 Loading mod LogisticTrainNetwork 1.15.5 (data.lua)
+   4.361 Loading mod Nanobots 3.2.15 (data.lua)
+   4.572 Loading mod bobplates 1.1.2 (data.lua)
+   4.808 Loading mod rso-mod 6.2.3 (data.lua)
+   5.021 Loading mod bobassembly 1.1.2 (data.lua)
+   5.248 Loading mod bobelectronics 1.1.3 (data.lua)
+   5.469 Loading mod boblogistics 1.1.2 (data.lua)
+   5.724 Loading mod bobmining 1.1.1 (data.lua)
+   5.990 Loading mod bobpower 1.1.1 (data.lua)
+   6.280 Loading mod bobrevamp 1.1.2 (data.lua)
+   6.484 Loading mod bobwarfare 1.1.2 (data.lua)
+   6.764 Loading mod Actual_Craft_Time 0.5.9 (data.lua)
+   7.019 Loading mod angelsrefining 0.11.19 (data.lua)
+   7.322 Loading mod blueprint_flip_and_turn 101.8.6 (data.lua)
+   7.618 Loading mod bobmodules 1.1.2 (data.lua)
+   7.875 Loading mod bobvehicleequipment 1.1.2 (data.lua)
+   8.139 Loading mod miniloader 1.13.1 (data.lua)
+   8.402 Loading mod angelsinfiniteores 0.9.8 (data.lua)
+   8.680 Loading mod angelspetrochem 0.9.17 (data.lua)
+   8.994 Loading mod angelsaddons-storage 0.0.4 (data.lua)
+   9.280 Loading mod angelssmelting 0.6.14 (data.lua)
+   9.606 Loading mod angelsbioprocessing 0.7.17 (data.lua)
+   9.922 Loading mod angelsindustries 0.4.11 (data.lua)
+  10.241 Loading mod PCPRedux 1.0.3 (data.lua)
+  10.522 Loading mod angelsaddons-cab 0.2.6 (data.lua)
+  10.807 Loading mod angelsaddons-mobility 0.0.6 (data.lua)
+  11.117 Loading mod angelsexploration 0.3.9 (data.lua)
+  11.437 Loading mod base 1.1.27 (data-updates.lua)
+  11.748 Loading mod AfraidOfTheDark 1.1.1 (data-updates.lua)
+  12.041 Loading mod angelsaddons-nilaus 0.3.12 (data-updates.lua)
+  12.329 Loading mod angelsaddons-shred 0.2.7 (data-updates.lua)
+  12.623 Loading mod bobenemies 1.1.1 (data-updates.lua)
+  12.917 Loading mod bobinserters 1.1.0 (data-updates.lua)
+  13.218 Loading mod CleanFloor 1.1.0 (data-updates.lua)
+  13.515 Loading mod Yuoki 1.1.2 (data-updates.lua)
+  13.816 Loading mod alien-biomes 0.6.4 (data-updates.lua)
+  14.109 Loading mod bobequipment 1.1.2 (data-updates.lua)
+  14.407 Loading mod bobores 1.1.0 (data-updates.lua)
+  14.702 Loading mod bobtech 1.1.2 (data-updates.lua)
+  15.000 Loading mod Nanobots 3.2.15 (data-updates.lua)
+  15.313 Loading mod bobplates 1.1.2 (data-updates.lua)
+  15.614 Loading mod bobassembly 1.1.2 (data-updates.lua)
+  15.917 Loading mod bobelectronics 1.1.3 (data-updates.lua)
+  16.209 Loading mod boblogistics 1.1.2 (data-updates.lua)
+  16.513 Loading mod bobmining 1.1.1 (data-updates.lua)
+  16.806 Loading mod bobpower 1.1.1 (data-updates.lua)
+  17.116 Loading mod bobrevamp 1.1.2 (data-updates.lua)
+  17.423 Loading mod bobwarfare 1.1.2 (data-updates.lua)
+  17.734 Loading mod angelsrefining 0.11.19 (data-updates.lua)
+  18.067 Loading mod bobmodules 1.1.2 (data-updates.lua)
+  18.357 Loading mod bobvehicleequipment 1.1.2 (data-updates.lua)
+  18.648 Loading mod miniloader 1.13.1 (data-updates.lua)
+  18.928 Loading mod WideChests 3.3.0 (data-updates.lua)
+  22.258 Loading mod angelsinfiniteores 0.9.8 (data-updates.lua)
+  23.175 Loading mod angelspetrochem 0.9.17 (data-updates.lua)
+  24.034 Loading mod Squeak Through 1.8.2 (data-updates.lua)
+  24.879 Loading mod angelsaddons-storage 0.0.4 (data-updates.lua)
+  25.715 Loading mod angelssmelting 0.6.14 (data-updates.lua)
+  26.629 Loading mod angelsbioprocessing 0.7.17 (data-updates.lua)
+  26.644 Script @__angelsbioprocessing__/prototypes/overrides/bio-processing-override-bob-artifacts.lua:534: true
+  27.518 Loading mod angelsindustries 0.4.11 (data-updates.lua)
+  28.440 Loading mod PCPRedux 1.0.3 (data-updates.lua)
+  29.254 Loading mod angelsaddons-cab 0.2.6 (data-updates.lua)
+  30.089 Loading mod angelsaddons-mobility 0.0.6 (data-updates.lua)
+  30.904 Loading mod angelsexploration 0.3.9 (data-updates.lua)
+  31.725 Loading mod AfraidOfTheDark 1.1.1 (data-final-fixes.lua)
+  32.546 Loading mod boblibrary 1.1.2 (data-final-fixes.lua)
+  32.551 Script @__boblibrary__/technology-functions.lua:949: Running technology prerequisite cleanup...
+  33.366 Loading mod Yuoki 1.1.2 (data-final-fixes.lua)
+  34.173 Loading mod alien-biomes 0.6.4 (data-final-fixes.lua)
+  34.199 Script @__alien-biomes__/collision-mask-util-extended/data/collision-mask-util-extended.lua:133: Named collision layer [vehicle-layer] set to layer [layer-13]
+  34.227 Script @__alien-biomes__/data-final-fixes.lua:323: Setting decals to layer 162
+  34.228 Script @__alien-biomes__/data-final-fixes.lua:429: logging tile layers
+  34.236 Script @__alien-biomes__/data-final-fixes.lua:434: {
+  ["layer 0"] = "out-of-map",
+  ["layer 1"] = "water, water-green",
+  ["layer 2"] = "deepwater, deepwater-green",
+  ["layer 3"] = "water-shallow",
+  ["layer 4"] = "water-mud",
+  ["layer 5"] = "grass-1",
+  ["layer 6"] = "mineral-purple-dirt-1",
+  ["layer 7"] = "mineral-purple-dirt-2",
+  ["layer 8"] = "mineral-purple-dirt-3",
+  ["layer 9"] = "mineral-purple-dirt-4",
+  ["layer 10"] = "mineral-purple-dirt-5",
+  ["layer 11"] = "mineral-purple-dirt-6",
+  ["layer 12"] = "mineral-purple-sand-1",
+  ["layer 13"] = "mineral-purple-sand-2",
+  ["layer 14"] = "mineral-purple-sand-3",
+  ["layer 15"] = "mineral-violet-dirt-1",
+  ["layer 16"] = "mineral-violet-dirt-2",
+  ["layer 17"] = "mineral-violet-dirt-3",
+  ["layer 18"] = "mineral-violet-dirt-4",
+  ["layer 19"] = "mineral-violet-dirt-5",
+  ["layer 20"] = "mineral-violet-dirt-6",
+  ["layer 21"] = "mineral-violet-sand-1",
+  ["layer 22"] = "mineral-violet-sand-2",
+  ["layer 23"] = "mineral-violet-sand-3",
+  ["layer 24"] = "mineral-red-dirt-1",
+  ["layer 25"] = "mineral-red-dirt-2",
+  ["layer 26"] = "mineral-red-dirt-3",
+  ["layer 27"] = "mineral-red-dirt-4",
+  ["layer 28"] = "mineral-red-dirt-5",
+  ["layer 29"] = "mineral-red-dirt-6",
+  ["layer 30"] = "mineral-red-sand-1",
+  ["layer 31"] = "mineral-red-sand-2",
+  ["layer 32"] = "mineral-red-sand-3",
+  ["layer 33"] = "mineral-brown-dirt-1",
+  ["layer 34"] = "mineral-brown-dirt-2",
+  ["layer 35"] = "mineral-brown-dirt-3",
+  ["layer 36"] = "mineral-brown-dirt-4",
+  ["layer 37"] = "mineral-brown-dirt-5",
+  ["layer 38"] = "mineral-brown-dirt-6",
+  ["layer 39"] = "mineral-brown-sand-1",
+  ["layer 40"] = "mineral-brown-sand-2",
+  ["layer 41"] = "mineral-brown-sand-3",
+  ["layer 42"] = "mineral-tan-dirt-1",
+  ["layer 43"] = "mineral-tan-dirt-2",
+  ["layer 44"] = "mineral-tan-dirt-3",
+  ["layer 45"] = "mineral-tan-dirt-4",
+  ["layer 46"] = "mineral-tan-dirt-5",
+  ["layer 47"] = "mineral-tan-dirt-6",
+  ["layer 48"] = "mineral-tan-sand-1",
+  ["layer 49"] = "mineral-tan-sand-2",
+  ["layer 50"] = "mineral-tan-sand-3",
+  ["layer 51"] = "mineral-aubergine-dirt-1",
+  ["layer 52"] = "mineral-aubergine-dirt-2",
+  ["layer 53"] = "mineral-aubergine-dirt-3",
+  ["layer 54"] = "mineral-aubergine-dirt-4",
+  ["layer 55"] = "mineral-aubergine-dirt-5",
+  ["layer 56"] = "mineral-aubergine-dirt-6",
+  ["layer 57"] = "mineral-aubergine-sand-1",
+  ["layer 58"] = "mineral-aubergine-sand-2",
+  ["layer 59"] = "mineral-aubergine-sand-3",
+  ["layer 60"] = "mineral-dustyrose-dirt-1",
+  ["layer 61"] = "mineral-dustyrose-dirt-2",
+  ["layer 62"] = "mineral-dustyrose-dirt-3",
+  ["layer 63"] = "mineral-dustyrose-dirt-4",
+  ["layer 64"] = "mineral-dustyrose-dirt-5",
+  ["layer 65"] = "mineral-dustyrose-dirt-6",
+  ["layer 66"] = "mineral-dustyrose-sand-1",
+  ["layer 67"] = "mineral-dustyrose-sand-2",
+  ["layer 68"] = "mineral-dustyrose-sand-3",
+  ["layer 69"] = "mineral-beige-dirt-1",
+  ["layer 70"] = "mineral-beige-dirt-2",
+  ["layer 71"] = "mineral-beige-dirt-3",
+  ["layer 72"] = "mineral-beige-dirt-4",
+  ["layer 73"] = "mineral-beige-dirt-5",
+  ["layer 74"] = "mineral-beige-dirt-6",
+  ["layer 75"] = "mineral-beige-sand-1",
+  ["layer 76"] = "mineral-beige-sand-2",
+  ["layer 77"] = "mineral-beige-sand-3",
+  ["layer 78"] = "mineral-cream-dirt-1",
+  ["layer 79"] = "mineral-cream-dirt-2",
+  ["layer 80"] = "mineral-cream-dirt-3",
+  ["layer 81"] = "mineral-cream-dirt-4",
+  ["layer 82"] = "mineral-cream-dirt-5",
+  ["layer 83"] = "mineral-cream-dirt-6",
+  ["layer 84"] = "mineral-cream-sand-1",
+  ["layer 85"] = "mineral-cream-sand-2",
+  ["layer 86"] = "mineral-cream-sand-3",
+  ["layer 87"] = "mineral-black-dirt-1",
+  ["layer 88"] = "mineral-black-dirt-2",
+  ["layer 89"] = "mineral-black-dirt-3",
+  ["layer 90"] = "mineral-black-dirt-4",
+  ["layer 91"] = "mineral-black-dirt-5",
+  ["layer 92"] = "mineral-black-dirt-6",
+  ["layer 93"] = "mineral-black-sand-1",
+  ["layer 94"] = "mineral-black-sand-2",
+  ["layer 95"] = "mineral-black-sand-3",
+  ["layer 96"] = "mineral-grey-dirt-1",
+  ["layer 97"] = "mineral-grey-dirt-2",
+  ["layer 98"] = "mineral-grey-dirt-3",
+  ["layer 99"] = "mineral-grey-dirt-4",
+  ["layer 100"] = "mineral-grey-dirt-5",
+  ["layer 101"] = "mineral-grey-dirt-6",
+  ["layer 102"] = "mineral-grey-sand-1",
+  ["layer 103"] = "mineral-grey-sand-2",
+  ["layer 104"] = "mineral-grey-sand-3",
+  ["layer 105"] = "mineral-white-dirt-1",
+  ["layer 106"] = "mineral-white-dirt-2",
+  ["layer 107"] = "mineral-white-dirt-3",
+  ["layer 108"] = "mineral-white-dirt-4",
+  ["layer 109"] = "mineral-white-dirt-5",
+  ["layer 110"] = "mineral-white-dirt-6",
+  ["layer 111"] = "mineral-white-sand-1",
+  ["layer 112"] = "mineral-white-sand-2",
+  ["layer 113"] = "mineral-white-sand-3",
+  ["layer 114"] = "vegetation-turquoise-grass-1",
+  ["layer 115"] = "vegetation-turquoise-grass-2",
+  ["layer 116"] = "vegetation-green-grass-1",
+  ["layer 117"] = "vegetation-green-grass-2",
+  ["layer 118"] = "vegetation-green-grass-3",
+  ["layer 119"] = "vegetation-green-grass-4",
+  ["layer 120"] = "vegetation-olive-grass-1",
+  ["layer 121"] = "vegetation-olive-grass-2",
+  ["layer 122"] = "vegetation-yellow-grass-1",
+  ["layer 123"] = "vegetation-yellow-grass-2",
+  ["layer 124"] = "vegetation-orange-grass-1",
+  ["layer 125"] = "vegetation-orange-grass-2",
+  ["layer 126"] = "vegetation-red-grass-1",
+  ["layer 127"] = "vegetation-red-grass-2",
+  ["layer 128"] = "vegetation-violet-grass-1",
+  ["layer 129"] = "vegetation-violet-grass-2",
+  ["layer 130"] = "vegetation-purple-grass-1",
+  ["layer 131"] = "vegetation-purple-grass-2",
+  ["layer 132"] = "vegetation-mauve-grass-1",
+  ["layer 133"] = "vegetation-mauve-grass-2",
+  ["layer 134"] = "vegetation-blue-grass-1",
+  ["layer 135"] = "vegetation-blue-grass-2",
+  ["layer 136"] = "volcanic-orange-heat-1",
+  ["layer 137"] = "volcanic-orange-heat-2",
+  ["layer 138"] = "volcanic-orange-heat-3",
+  ["layer 139"] = "volcanic-orange-heat-4",
+  ["layer 140"] = "volcanic-green-heat-1",
+  ["layer 141"] = "volcanic-green-heat-2",
+  ["layer 142"] = "volcanic-green-heat-3",
+  ["layer 143"] = "volcanic-green-heat-4",
+  ["layer 144"] = "volcanic-blue-heat-1",
+  ["layer 145"] = "volcanic-blue-heat-2",
+  ["layer 146"] = "volcanic-blue-heat-3",
+  ["layer 147"] = "volcanic-blue-heat-4",
+  ["layer 148"] = "volcanic-purple-heat-1",
+  ["layer 149"] = "volcanic-purple-heat-2",
+  ["layer 150"] = "volcanic-purple-heat-3",
+  ["layer 151"] = "volcanic-purple-heat-4",
+  ["layer 152"] = "frozen-snow-0",
+  ["layer 153"] = "frozen-snow-1",
+  ["layer 154"] = "frozen-snow-2",
+  ["layer 155"] = "frozen-snow-3",
+  ["layer 156"] = "frozen-snow-4",
+  ["layer 157"] = "frozen-snow-5",
+  ["layer 158"] = "frozen-snow-6",
+  ["layer 159"] = "frozen-snow-7",
+  ["layer 160"] = "frozen-snow-8",
+  ["layer 161"] = "frozen-snow-9",
+  ["layer 162"] = "landfill",
+  ["layer 163"] = "tile-unknown",
+  ["layer 164"] = "water-wube",
+  ["layer 165"] = "sand-1",
+  ["layer 166"] = "sand-2",
+  ["layer 167"] = "sand-3",
+  ["layer 168"] = "red-desert-1",
+  ["layer 169"] = "red-desert-2",
+  ["layer 170"] = "red-desert-3",
+  ["layer 171"] = "dry-dirt",
+  ["layer 172"] = "dirt-1",
+  ["layer 173"] = "dirt-2",
+  ["layer 174"] = "dirt-3",
+  ["layer 175"] = "dirt-4",
+  ["layer 176"] = "dirt-5",
+  ["layer 177"] = "dirt-6",
+  ["layer 178"] = "dirt-7",
+  ["layer 179"] = "grass-2",
+  ["layer 180"] = "grass-3",
+  ["layer 181"] = "grass-4",
+  ["layer 182"] = "red-desert-0",
+  ["layer 183"] = "nuclear-ground",
+  ["layer 184"] = "tutorial-grid",
+  ["layer 185"] = "tile-concrete-brick",
+  ["layer 186"] = "tile-reinforced-concrete-brick",
+  ["layer 187"] = "y_tile_slagbricks",
+  ["layer 188"] = "y_tile_slagpattern",
+  ["layer 189"] = "y_tile_slagfilled",
+  ["layer 190"] = "y_tile_slagstones",
+  ["layer 191"] = "stone-path",
+  ["layer 192"] = "clay-bricks",
+  ["layer 193"] = "concrete",
+  ["layer 194"] = "hazard-concrete-left, hazard-concrete-right",
+  ["layer 195"] = "refined-concrete",
+  ["layer 196"] = "refined-hazard-concrete-left, refined-hazard-concrete-right",
+  ["layer 197"] = "red-refined-concrete",
+  ["layer 198"] = "lab-dark-1",
+  ["layer 199"] = "lab-dark-2",
+  ["layer 200"] = "lab-white",
+  ["layer 201"] = "green-refined-concrete",
+  ["layer 202"] = "blue-refined-concrete",
+  ["layer 203"] = "orange-refined-concrete",
+  ["layer 204"] = "yellow-refined-concrete",
+  ["layer 205"] = "bio-tile",
+  ["layer 206"] = "pink-refined-concrete",
+  ["layer 207"] = "purple-refined-concrete",
+  ["layer 208"] = "black-refined-concrete",
+  ["layer 209"] = "brown-refined-concrete",
+  ["layer 210"] = "cyan-refined-concrete",
+  ["layer 211"] = "acid-refined-concrete"
+}
+  35.023 Loading mod bobtech 1.1.2 (data-final-fixes.lua)
+  35.821 Loading mod LogisticTrainNetwork 1.15.5 (data-final-fixes.lua)
+  35.831 Script @__LogisticTrainNetwork__/data-final-fixes.lua:88: [LTN] found 2212 items, 225 fluids, 20 locomotives, 28 wagons
+  36.641 Loading mod bobplates 1.1.2 (data-final-fixes.lua)
+  37.440 Loading mod rso-mod 6.2.3 (data-final-fixes.lua)
+  38.250 Loading mod angelsrefining 0.11.19 (data-final-fixes.lua)
+  39.047 Loading mod WideChests 3.3.0 (data-final-fixes.lua)
+  39.823 Loading mod angelspetrochem 0.9.17 (data-final-fixes.lua)
+  39.830 Script @__angelspetrochem__/prototypes/petrochem-global-override.lua:13: Recipe 'y_mixedfuel2rocketfuel_recipe' does not have a crafting_machine_tint set!
+  39.830 Script @__angelspetrochem__/prototypes/petrochem-global-override.lua:13: Recipe 'y_ft_recipe' does not have a crafting_machine_tint set!
+  39.831 Script @__angelspetrochem__/prototypes/petrochem-global-override.lua:13: Recipe 'y_rawsyngas2_recipe' does not have a crafting_machine_tint set!
+  39.831 Script @__angelspetrochem__/prototypes/petrochem-global-override.lua:13: Recipe 'y_regcatft_recipe' does not have a crafting_machine_tint set!
+  39.831 Script @__angelspetrochem__/prototypes/petrochem-global-override.lua:13: Recipe 'y_regcatbp_recipe' does not have a crafting_machine_tint set!
+  39.831 Script @__angelspetrochem__/prototypes/petrochem-global-override.lua:13: Recipe 'y_coal2liquid' does not have a crafting_machine_tint set!
+  39.831 Script @__angelspetrochem__/prototypes/petrochem-global-override.lua:13: Recipe 'y_refinehydrogen_recipe' does not have a crafting_machine_tint set!
+  39.832 Script @__angelspetrochem__/prototypes/petrochem-global-override.lua:13: Recipe 'y_rawsyngas1_recipe' does not have a crafting_machine_tint set!
+  39.832 Script @__angelspetrochem__/prototypes/petrochem-global-override.lua:13: Recipe 'lead-oxide' does not have a crafting_machine_tint set!
+  39.832 Script @__angelspetrochem__/prototypes/petrochem-global-override.lua:13: Recipe 'silver-nitrate' does not have a crafting_machine_tint set!
+  39.832 Script @__angelspetrochem__/prototypes/petrochem-global-override.lua:13: Recipe 'silver-oxide' does not have a crafting_machine_tint set!
+  39.833 Script @__angelspetrochem__/prototypes/petrochem-global-override.lua:13: Recipe 'lead-oxide-2' does not have a crafting_machine_tint set!
+  39.833 Script @__angelspetrochem__/prototypes/petrochem-global-override.lua:13: Recipe 'hydrogen-sulfide' does not have a crafting_machine_tint set!
+  39.833 Script @__angelspetrochem__/prototypes/petrochem-global-override.lua:13: Recipe 'carbon-dioxide' does not have a crafting_machine_tint set!
+  39.833 Script @__angelspetrochem__/prototypes/petrochem-global-override.lua:13: Recipe 'sulfuric-nitric-acid' does not have a crafting_machine_tint set!
+  39.834 Script @__angelspetrochem__/prototypes/petrochem-global-override.lua:13: Recipe 'glycerol' does not have a crafting_machine_tint set!
+  39.834 Script @__angelspetrochem__/prototypes/petrochem-global-override.lua:13: Recipe 'nitroglycerin' does not have a crafting_machine_tint set!
+  39.834 Script @__angelspetrochem__/prototypes/petrochem-global-override.lua:13: Recipe 'petroleum-jelly' does not have a crafting_machine_tint set!
+  39.834 Script @__angelspetrochem__/prototypes/petrochem-global-override.lua:13: Recipe 'angelsore8-sludge' does not have a crafting_machine_tint set!
+  39.835 Script @__angelspetrochem__/prototypes/petrochem-global-override.lua:13: Recipe 'angelsore9-sludge' does not have a crafting_machine_tint set!
+  39.835 Script @__angelspetrochem__/prototypes/petrochem-global-override.lua:13: Recipe 'slag-processing-dissolution' does not have a crafting_machine_tint set!
+  39.835 Script @__angelspetrochem__/prototypes/petrochem-global-override.lua:13: Recipe 'stone-crushed-dissolution' does not have a crafting_machine_tint set!
+  39.835 Script @__angelspetrochem__/prototypes/petrochem-global-override.lua:13: Recipe 'geode-blue-liquify' does not have a crafting_machine_tint set!
+  39.835 Script @__angelspetrochem__/prototypes/petrochem-global-override.lua:13: Recipe 'geode-red-liquify' does not have a crafting_machine_tint set!
+  39.836 Script @__angelspetrochem__/prototypes/petrochem-global-override.lua:13: Recipe 'geode-yellow-liquify' does not have a crafting_machine_tint set!
+  39.836 Script @__angelspetrochem__/prototypes/petrochem-global-override.lua:13: Recipe 'geode-purple-liquify' does not have a crafting_machine_tint set!
+  39.836 Script @__angelspetrochem__/prototypes/petrochem-global-override.lua:13: Recipe 'geode-cyan-liquify' does not have a crafting_machine_tint set!
+  39.836 Script @__angelspetrochem__/prototypes/petrochem-global-override.lua:13: Recipe 'geode-lightgreen-liquify' does not have a crafting_machine_tint set!
+  39.836 Script @__angelspetrochem__/prototypes/petrochem-global-override.lua:13: Recipe 'crystal-dust-liquify' does not have a crafting_machine_tint set!
+  39.837 Script @__angelspetrochem__/prototypes/petrochem-global-override.lua:13: Recipe 'water-mineralized' does not have a crafting_machine_tint set!
+  39.837 Script @__angelspetrochem__/prototypes/petrochem-global-override.lua:13: Recipe 'water-viscous-mud' does not have a crafting_machine_tint set!
+  39.837 Script @__angelspetrochem__/prototypes/petrochem-global-override.lua:13: Recipe 'angels-water-enrichment-1' does not have a crafting_machine_tint set!
+  39.837 Script @__angelspetrochem__/prototypes/petrochem-global-override.lua:13: Recipe 'angels-water-enrichment-2' does not have a crafting_machine_tint set!
+  39.838 Script @__angelspetrochem__/prototypes/petrochem-global-override.lua:13: Recipe 'angels-water-enrichment-3' does not have a crafting_machine_tint set!
+  39.838 Script @__angelspetrochem__/prototypes/petrochem-global-override.lua:13: Recipe 'condensates-refining' does not have a crafting_machine_tint set!
+  39.838 Script @__angelspetrochem__/prototypes/petrochem-global-override.lua:13: Recipe 'liquid-mineral-oil-catalyst' does not have a crafting_machine_tint set!
+  39.838 Script @__angelspetrochem__/prototypes/petrochem-global-override.lua:13: Recipe 'mineral-oil-lubricant' does not have a crafting_machine_tint set!
+  39.838 Script @__angelspetrochem__/prototypes/petrochem-global-override.lua:13: Recipe 'gas-synthesis-separation' does not have a crafting_machine_tint set!
+  39.839 Script @__angelspetrochem__/prototypes/petrochem-global-override.lua:13: Recipe 'gas-synthesis-reforming' does not have a crafting_machine_tint set!
+  39.839 Script @__angelspetrochem__/prototypes/petrochem-global-override.lua:13: Recipe 'gas-synthesis-methanation' does not have a crafting_machine_tint set!
+  39.839 Script @__angelspetrochem__/prototypes/petrochem-global-override.lua:13: Recipe 'liquid-naphtha-catalyst' does not have a crafting_machine_tint set!
+  39.839 Script @__angelspetrochem__/prototypes/petrochem-global-override.lua:13: Recipe 'gas-synthesis-methanol' does not have a crafting_machine_tint set!
+  39.840 Script @__angelspetrochem__/prototypes/petrochem-global-override.lua:13: Recipe 'gas-benzene-catalyst' does not have a crafting_machine_tint set!
+  39.840 Script @__angelspetrochem__/prototypes/petrochem-global-override.lua:13: Recipe 'liquid-polyethylene-catalyst' does not have a crafting_machine_tint set!
+  39.840 Script @__angelspetrochem__/prototypes/petrochem-global-override.lua:13: Recipe 'gas-methanol-catalyst' does not have a crafting_machine_tint set!
+  39.840 Script @__angelspetrochem__/prototypes/petrochem-global-override.lua:13: Recipe 'gas-ethylene-oxide' does not have a crafting_machine_tint set!
+  39.840 Script @__angelspetrochem__/prototypes/petrochem-global-override.lua:13: Recipe 'liquid-toluene-from-naphtha' does not have a crafting_machine_tint set!
+  39.841 Script @__angelspetrochem__/prototypes/petrochem-global-override.lua:13: Recipe 'liquid-toluene-from-benzene' does not have a crafting_machine_tint set!
+  39.841 Script @__angelspetrochem__/prototypes/petrochem-global-override.lua:13: Recipe 'gas-formaldehyde-catalyst' does not have a crafting_machine_tint set!
+  39.841 Script @__angelspetrochem__/prototypes/petrochem-global-override.lua:13: Recipe 'liquid-styrene-catalyst' does not have a crafting_machine_tint set!
+  39.841 Script @__angelspetrochem__/prototypes/petrochem-global-override.lua:13: Recipe 'liquid-phenol-catalyst' does not have a crafting_machine_tint set!
+  39.841 Script @__angelspetrochem__/prototypes/petrochem-global-override.lua:13: Recipe 'liquid-ethylbenzene-catalyst' does not have a crafting_machine_tint set!
+  39.842 Script @__angelspetrochem__/prototypes/petrochem-global-override.lua:13: Recipe 'liquid-ethylene-carbonate' does not have a crafting_machine_tint set!
+  39.842 Script @__angelspetrochem__/prototypes/petrochem-global-override.lua:13: Recipe 'cumene-process' does not have a crafting_machine_tint set!
+  39.842 Script @__angelspetrochem__/prototypes/petrochem-global-override.lua:13: Recipe 'liquid-bisphenol-a' does not have a crafting_machine_tint set!
+  39.842 Script @__angelspetrochem__/prototypes/petrochem-global-override.lua:13: Recipe 'air-separation' does not have a crafting_machine_tint set!
+  39.842 Script @__angelspetrochem__/prototypes/petrochem-global-override.lua:13: Recipe 'solid-sodium-nitrate-processing' does not have a crafting_machine_tint set!
+  39.843 Script @__angelspetrochem__/prototypes/petrochem-global-override.lua:13: Recipe 'gas-nitrogen-monoxide' does not have a crafting_machine_tint set!
+  39.843 Script @__angelspetrochem__/prototypes/petrochem-global-override.lua:13: Recipe 'gas-nitrogen-dioxide' does not have a crafting_machine_tint set!
+  39.843 Script @__angelspetrochem__/prototypes/petrochem-global-override.lua:13: Recipe 'gas-ammonia' does not have a crafting_machine_tint set!
+  39.843 Script @__angelspetrochem__/prototypes/petrochem-global-override.lua:13: Recipe 'gas-ammonium-chloride' does not have a crafting_machine_tint set!
+  39.844 Script @__angelspetrochem__/prototypes/petrochem-global-override.lua:13: Recipe 'gas-urea' does not have a crafting_machine_tint set!
+  39.844 Script @__angelspetrochem__/prototypes/petrochem-global-override.lua:13: Recipe 'liquid-nitric-acid' does not have a crafting_machine_tint set!
+  39.844 Script @__angelspetrochem__/prototypes/petrochem-global-override.lua:13: Recipe 'sodium-nitrate-acid-processing' does not have a crafting_machine_tint set!
+  39.844 Script @__angelspetrochem__/prototypes/petrochem-global-override.lua:13: Recipe 'gas-melamine' does not have a crafting_machine_tint set!
+  39.844 Script @__angelspetrochem__/prototypes/petrochem-global-override.lua:13: Recipe 'gas-monochloramine' does not have a crafting_machine_tint set!
+  39.845 Script @__angelspetrochem__/prototypes/petrochem-global-override.lua:13: Recipe 'gas-hydrazine' does not have a crafting_machine_tint set!
+  39.845 Script @__angelspetrochem__/prototypes/petrochem-global-override.lua:13: Recipe 'gas-methylamine' does not have a crafting_machine_tint set!
+  39.845 Script @__angelspetrochem__/prototypes/petrochem-global-override.lua:13: Recipe 'gas-dimethylamine' does not have a crafting_machine_tint set!
+  39.845 Script @__angelspetrochem__/prototypes/petrochem-global-override.lua:13: Recipe 'gas-dimethylhydrazine' does not have a crafting_machine_tint set!
+  39.845 Script @__angelspetrochem__/prototypes/petrochem-global-override.lua:13: Recipe 'gas-dinitrogen-tetroxide' does not have a crafting_machine_tint set!
+  39.846 Script @__angelspetrochem__/prototypes/petrochem-global-override.lua:13: Recipe 'solid-ammonium-nitrate' does not have a crafting_machine_tint set!
+  39.846 Script @__angelspetrochem__/prototypes/petrochem-global-override.lua:13: Recipe 'solid-ammonium-perchlorate' does not have a crafting_machine_tint set!
+  39.846 Script @__angelspetrochem__/prototypes/petrochem-global-override.lua:13: Recipe 'rocket-oxidizer-capsule' does not have a crafting_machine_tint set!
+  39.846 Script @__angelspetrochem__/prototypes/petrochem-global-override.lua:13: Recipe 'rocket-fuel-capsule' does not have a crafting_machine_tint set!
+  39.846 Script @__angelspetrochem__/prototypes/petrochem-global-override.lua:13: Recipe 'liquid-plastic-1' does not have a crafting_machine_tint set!
+  39.847 Script @__angelspetrochem__/prototypes/petrochem-global-override.lua:13: Recipe 'liquid-plastic-2' does not have a crafting_machine_tint set!
+  39.847 Script @__angelspetrochem__/prototypes/petrochem-global-override.lua:13: Recipe 'liquid-plastic-3' does not have a crafting_machine_tint set!
+  39.847 Script @__angelspetrochem__/prototypes/petrochem-global-override.lua:13: Recipe 'liquid-resin-1' does not have a crafting_machine_tint set!
+  39.847 Script @__angelspetrochem__/prototypes/petrochem-global-override.lua:13: Recipe 'liquid-resin-2' does not have a crafting_machine_tint set!
+  39.848 Script @__angelspetrochem__/prototypes/petrochem-global-override.lua:13: Recipe 'liquid-resin-3' does not have a crafting_machine_tint set!
+  39.848 Script @__angelspetrochem__/prototypes/petrochem-global-override.lua:13: Recipe 'liquid-rubber-1' does not have a crafting_machine_tint set!
+  39.848 Script @__angelspetrochem__/prototypes/petrochem-global-override.lua:13: Recipe 'solid-fuel-methane' does not have a crafting_machine_tint set!
+  39.848 Script @__angelspetrochem__/prototypes/petrochem-global-override.lua:13: Recipe 'solid-fuel-naphtha' does not have a crafting_machine_tint set!
+  39.848 Script @__angelspetrochem__/prototypes/petrochem-global-override.lua:13: Recipe 'solid-fuel-fuel-oil' does not have a crafting_machine_tint set!
+  39.849 Script @__angelspetrochem__/prototypes/petrochem-global-override.lua:13: Recipe 'solid-fuel-synthesis' does not have a crafting_machine_tint set!
+  39.849 Script @__angelspetrochem__/prototypes/petrochem-global-override.lua:13: Recipe 'solid-fuel-hydrazine' does not have a crafting_machine_tint set!
+  39.849 Script @__angelspetrochem__/prototypes/petrochem-global-override.lua:13: Recipe 'angels-electrode-used' does not have a crafting_machine_tint set!
+  39.849 Script @__angelspetrochem__/prototypes/petrochem-global-override.lua:13: Recipe 'solid-nitroglycerin' does not have a crafting_machine_tint set!
+  39.850 Script @__angelspetrochem__/prototypes/petrochem-global-override.lua:13: Recipe 'solid-trinitrotoluene' does not have a crafting_machine_tint set!
+  39.850 Script @__angelspetrochem__/prototypes/petrochem-global-override.lua:13: Recipe 'solid-sodium-carbonate' does not have a crafting_machine_tint set!
+  39.850 Script @__angelspetrochem__/prototypes/petrochem-global-override.lua:13: Recipe 'solid-sodium-cyanide' does not have a crafting_machine_tint set!
+  39.850 Script @__angelspetrochem__/prototypes/petrochem-global-override.lua:13: Recipe 'solid-sodium-hydroxide' does not have a crafting_machine_tint set!
+  39.851 Script @__angelspetrochem__/prototypes/petrochem-global-override.lua:13: Recipe 'liquid-aqueous-sodium-hydroxide-reverse' does not have a crafting_machine_tint set!
+  39.851 Script @__angelspetrochem__/prototypes/petrochem-global-override.lua:13: Recipe 'solid-sodium-hydroxide-solid-sodium-sulfate' does not have a crafting_machine_tint set!
+  39.851 Script @__angelspetrochem__/prototypes/petrochem-global-override.lua:13: Recipe 'liquid-aqueous-sodium-hydroxide' does not have a crafting_machine_tint set!
+  39.851 Script @__angelspetrochem__/prototypes/petrochem-global-override.lua:13: Recipe 'solid-sodium-hypochlorite' does not have a crafting_machine_tint set!
+  39.851 Script @__angelspetrochem__/prototypes/petrochem-global-override.lua:13: Recipe 'solid-sodium-chlorate' does not have a crafting_machine_tint set!
+  39.852 Script @__angelspetrochem__/prototypes/petrochem-global-override.lua:13: Recipe 'solid-sodium-perchlorate' does not have a crafting_machine_tint set!
+  39.852 Script @__angelspetrochem__/prototypes/petrochem-global-override.lua:13: Recipe 'gas-acid-catalyst' does not have a crafting_machine_tint set!
+  39.852 Script @__angelspetrochem__/prototypes/petrochem-global-override.lua:13: Recipe 'solid-sulfur' does not have a crafting_machine_tint set!
+  39.852 Script @__angelspetrochem__/prototypes/petrochem-global-override.lua:13: Recipe 'gas-sulfur-dioxide' does not have a crafting_machine_tint set!
+  39.852 Script @__angelspetrochem__/prototypes/petrochem-global-override.lua:13: Recipe 'gas-sulfur-dioxide-calcium-sulfate' does not have a crafting_machine_tint set!
+  39.853 Script @__angelspetrochem__/prototypes/petrochem-global-override.lua:13: Recipe 'liquid-sulfuric-acid' does not have a crafting_machine_tint set!
+  39.853 Script @__angelspetrochem__/prototypes/petrochem-global-override.lua:13: Recipe 'liquid-hydrofluoric-acid' does not have a crafting_machine_tint set!
+  39.853 Script @__angelspetrochem__/prototypes/petrochem-global-override.lua:13: Recipe 'liquid-hydrogen-fluoride' does not have a crafting_machine_tint set!
+  39.853 Script @__angelspetrochem__/prototypes/petrochem-global-override.lua:13: Recipe 'gas-hydrogen-fluoride' does not have a crafting_machine_tint set!
+  39.854 Script @__angelspetrochem__/prototypes/petrochem-global-override.lua:13: Recipe 'filter-lime-used' does not have a crafting_machine_tint set!
+  39.854 Script @__angelspetrochem__/prototypes/petrochem-global-override.lua:13: Recipe 'gas-hydrogen-chloride' does not have a crafting_machine_tint set!
+  39.854 Script @__angelspetrochem__/prototypes/petrochem-global-override.lua:13: Recipe 'gas-hydrogen-chloride-separation' does not have a crafting_machine_tint set!
+  39.854 Script @__angelspetrochem__/prototypes/petrochem-global-override.lua:13: Recipe 'gas-chlor-methane' does not have a crafting_machine_tint set!
+  39.854 Script @__angelspetrochem__/prototypes/petrochem-global-override.lua:13: Recipe 'liquid-hydrochloric-acid' does not have a crafting_machine_tint set!
+  39.855 Script @__angelspetrochem__/prototypes/petrochem-global-override.lua:13: Recipe 'liquid-hydrochloric-acid-solid-sodium-sulfate' does not have a crafting_machine_tint set!
+  39.855 Script @__angelspetrochem__/prototypes/petrochem-global-override.lua:13: Recipe 'liquid-ferric-chloride-solution' does not have a crafting_machine_tint set!
+  39.855 Script @__angelspetrochem__/prototypes/petrochem-global-override.lua:13: Recipe 'liquid-cupric-chloride-solution' does not have a crafting_machine_tint set!
+  39.855 Script @__angelspetrochem__/prototypes/petrochem-global-override.lua:13: Recipe 'gas-allylchlorid' does not have a crafting_machine_tint set!
+  39.856 Script @__angelspetrochem__/prototypes/petrochem-global-override.lua:13: Recipe 'gas-epichlorhydrin' does not have a crafting_machine_tint set!
+  39.856 Script @__angelspetrochem__/prototypes/petrochem-global-override.lua:13: Recipe 'liquid-glycerol' does not have a crafting_machine_tint set!
+  39.856 Script @__angelspetrochem__/prototypes/petrochem-global-override.lua:13: Recipe 'liquid-perchloric-acid' does not have a crafting_machine_tint set!
+  39.856 Script @__angelspetrochem__/prototypes/petrochem-global-override.lua:13: Recipe 'gas-phosgene' does not have a crafting_machine_tint set!
+  39.856 Script @__angelspetrochem__/prototypes/petrochem-global-override.lua:13: Recipe 'solid-chromate-smelting' does not have a crafting_machine_tint set!
+  39.857 Script @__angelspetrochem__/prototypes/petrochem-global-override.lua:13: Recipe 'pellet-cobalt-smelting' does not have a crafting_machine_tint set!
+  39.857 Script @__angelspetrochem__/prototypes/petrochem-global-override.lua:13: Recipe 'liquid-chlorauric-acid' does not have a crafting_machine_tint set!
+  39.857 Script @__angelspetrochem__/prototypes/petrochem-global-override.lua:13: Recipe 'liquid-hexafluorosilicic-acid' does not have a crafting_machine_tint set!
+  39.857 Script @__angelspetrochem__/prototypes/petrochem-global-override.lua:13: Recipe 'pellet-platinum-smelting' does not have a crafting_machine_tint set!
+  39.858 Script @__angelspetrochem__/prototypes/petrochem-global-override.lua:13: Recipe 'processed-silver-smelting' does not have a crafting_machine_tint set!
+  39.858 Script @__angelspetrochem__/prototypes/petrochem-global-override.lua:13: Recipe 'coolant' does not have a crafting_machine_tint set!
+  39.858 Script @__angelspetrochem__/prototypes/petrochem-global-override.lua:13: Recipe 'tungsten-ore-smelting' does not have a crafting_machine_tint set!
+  39.858 Script @__angelspetrochem__/prototypes/petrochem-global-override.lua:13: Recipe 'solid-tungsten-oxide-smelting' does not have a crafting_machine_tint set!
+  39.858 Script @__angelspetrochem__/prototypes/petrochem-global-override.lua:13: Recipe 'algae-brown-burning-wash' does not have a crafting_machine_tint set!
+  39.859 Script @__angelspetrochem__/prototypes/petrochem-global-override.lua:13: Recipe 'gas-methanol-from-wood' does not have a crafting_machine_tint set!
+  39.859 Script @__angelspetrochem__/prototypes/petrochem-global-override.lua:13: Recipe 'gas-ammonia-from-blue-fiber' does not have a crafting_machine_tint set!
+  39.859 Script @__angelspetrochem__/prototypes/petrochem-global-override.lua:13: Recipe 'solid-calcium-carbonate' does not have a crafting_machine_tint set!
+  39.859 Script @__angelspetrochem__/prototypes/petrochem-global-override.lua:13: Recipe 'bio-resin' does not have a crafting_machine_tint set!
+  39.860 Script @__angelspetrochem__/prototypes/petrochem-global-override.lua:13: Recipe 'bio-resin-resin-liquification' does not have a crafting_machine_tint set!
+  39.860 Script @__angelspetrochem__/prototypes/petrochem-global-override.lua:13: Recipe 'bio-plastic' does not have a crafting_machine_tint set!
+  39.860 Script @__angelspetrochem__/prototypes/petrochem-global-override.lua:13: Recipe 'bio-rubber' does not have a crafting_machine_tint set!
+  39.860 Script @__angelspetrochem__/prototypes/petrochem-global-override.lua:13: Recipe 'gas-carbon-dioxide-from-wood' does not have a crafting_machine_tint set!
+  39.860 Script @__angelspetrochem__/prototypes/petrochem-global-override.lua:13: Recipe 'carbon-from-charcoal' does not have a crafting_machine_tint set!
+  39.861 Script @__angelspetrochem__/prototypes/petrochem-global-override.lua:13: Recipe 'liquid-pulping-liquor' does not have a crafting_machine_tint set!
+  39.861 Script @__angelspetrochem__/prototypes/petrochem-global-override.lua:13: Recipe 'brown-liquor-recovery' does not have a crafting_machine_tint set!
+  39.861 Script @__angelspetrochem__/prototypes/petrochem-global-override.lua:13: Recipe 'sulfite-pulping' does not have a crafting_machine_tint set!
+  39.861 Script @__angelspetrochem__/prototypes/petrochem-global-override.lua:13: Recipe 'liquid-white-liquor' does not have a crafting_machine_tint set!
+  39.861 Script @__angelspetrochem__/prototypes/petrochem-global-override.lua:13: Recipe 'kraft-recovery' does not have a crafting_machine_tint set!
+  39.862 Script @__angelspetrochem__/prototypes/petrochem-global-override.lua:13: Recipe 'kraft-causting' does not have a crafting_machine_tint set!
+  39.862 Script @__angelspetrochem__/prototypes/petrochem-global-override.lua:13: Recipe 'kraft-cooking-washing' does not have a crafting_machine_tint set!
+  39.862 Script @__angelspetrochem__/prototypes/petrochem-global-override.lua:13: Recipe 'paper-bleaching-2' does not have a crafting_machine_tint set!
+  39.862 Script @__angelspetrochem__/prototypes/petrochem-global-override.lua:13: Recipe 'paper-bleaching-3' does not have a crafting_machine_tint set!
+  39.862 Script @__angelspetrochem__/prototypes/petrochem-global-override.lua:13: Recipe 'alien-goo' does not have a crafting_machine_tint set!
+  39.863 Script @__angelspetrochem__/prototypes/petrochem-global-override.lua:13: Recipe 'crystal-powder-slurry' does not have a crafting_machine_tint set!
+  39.863 Script @__angelspetrochem__/prototypes/petrochem-global-override.lua:13: Recipe 'paste-cellulose' does not have a crafting_machine_tint set!
+  39.863 Script @__angelspetrochem__/prototypes/petrochem-global-override.lua:13: Recipe 'fermentation-corn' does not have a crafting_machine_tint set!
+  39.863 Script @__angelspetrochem__/prototypes/petrochem-global-override.lua:13: Recipe 'fermentation-fruit' does not have a crafting_machine_tint set!
+  39.864 Script @__angelspetrochem__/prototypes/petrochem-global-override.lua:13: Recipe 'aerobic-fermentation' does not have a crafting_machine_tint set!
+  39.864 Script @__angelspetrochem__/prototypes/petrochem-global-override.lua:13: Recipe 'anaerobic-fermentation' does not have a crafting_machine_tint set!
+  39.864 Script @__angelspetrochem__/prototypes/petrochem-global-override.lua:13: Recipe 'ethanol-to-ethylene-synthesis' does not have a crafting_machine_tint set!
+  39.864 Script @__angelspetrochem__/prototypes/petrochem-global-override.lua:13: Recipe 'liquid-acetic-acid-catalyst' does not have a crafting_machine_tint set!
+  39.864 Script @__angelspetrochem__/prototypes/petrochem-global-override.lua:13: Recipe 'liquid-acetic-anhydride' does not have a crafting_machine_tint set!
+  39.865 Script @__angelspetrochem__/prototypes/petrochem-global-override.lua:13: Recipe 'liquid-acetate-mixture' does not have a crafting_machine_tint set!
+  39.865 Script @__angelspetrochem__/prototypes/petrochem-global-override.lua:13: Recipe 'liquid-cellulose-acetate' does not have a crafting_machine_tint set!
+  39.865 Script @__angelspetrochem__/prototypes/petrochem-global-override.lua:13: Recipe 'bio-plastic-1' does not have a crafting_machine_tint set!
+  39.865 Script @__angelspetrochem__/prototypes/petrochem-global-override.lua:13: Recipe 'liquid-propionic-acid-catalyst' does not have a crafting_machine_tint set!
+  39.866 Script @__angelspetrochem__/prototypes/petrochem-global-override.lua:13: Recipe 'bio-plastic-2' does not have a crafting_machine_tint set!
+  39.866 Script @__angelspetrochem__/prototypes/petrochem-global-override.lua:13: Recipe 'liquid-fish-atmosphere' does not have a crafting_machine_tint set!
+  39.866 Script @__angelspetrochem__/prototypes/petrochem-global-override.lua:13: Recipe 'liquid-polluted-fish-atmosphere' does not have a crafting_machine_tint set!
+  39.866 Script @__angelspetrochem__/prototypes/petrochem-global-override.lua:13: Recipe 'gas-puffer-atmosphere' does not have a crafting_machine_tint set!
+  39.867 Script @__angelspetrochem__/prototypes/petrochem-global-override.lua:13: Recipe 'angels-atomic-bomb-2' does not have a crafting_machine_tint set!
+  39.867 Script @__angelspetrochem__/prototypes/petrochem-global-override.lua:13: Recipe 'liquid-plastic-abs' does not have a crafting_machine_tint set!
+  39.867 Script @__angelspetrochem__/prototypes/petrochem-global-override.lua:13: Recipe 'liquid-plastic-pc' does not have a crafting_machine_tint set!
+  39.867 Script @__angelspetrochem__/prototypes/petrochem-global-override.lua:13: Recipe 'liquid-plastic-pvc' does not have a crafting_machine_tint set!
+  39.867 Script @__angelspetrochem__/prototypes/petrochem-global-override.lua:13: Recipe 'pmma-synthesis' does not have a crafting_machine_tint set!
+  39.868 Script @__angelspetrochem__/prototypes/petrochem-global-override.lua:13: Recipe 'pc-synthesis' does not have a crafting_machine_tint set!
+  39.868 Script @__angelspetrochem__/prototypes/petrochem-global-override.lua:13: Recipe 'acrylonitrile-synthesis' does not have a crafting_machine_tint set!
+  39.868 Script @__angelspetrochem__/prototypes/petrochem-global-override.lua:13: Recipe 'vinyl-chloride-synthesis' does not have a crafting_machine_tint set!
+  39.868 Script @__angelspetrochem__/prototypes/petrochem-global-override.lua:13: Recipe 'acetone-cyanohydrin-synthesis' does not have a crafting_machine_tint set!
+  39.868 Script @__angelspetrochem__/prototypes/petrochem-global-override.lua:13: Recipe 'methyl-methacrylate-synthesis' does not have a crafting_machine_tint set!
+  39.869 Script @__angelspetrochem__/prototypes/petrochem-global-override.lua:13: Recipe 'phosgene-synthesis' does not have a crafting_machine_tint set!
+  39.869 Script @__angelspetrochem__/prototypes/petrochem-global-override.lua:13: Recipe 'nitrous-oxide-synthesis-1' does not have a crafting_machine_tint set!
+  39.869 Script @__angelspetrochem__/prototypes/petrochem-global-override.lua:13: Recipe 'nitrous-oxide-synthesis-2' does not have a crafting_machine_tint set!
+  39.869 Script @__angelspetrochem__/prototypes/petrochem-global-override.lua:13: Recipe 'sodium-nitrate-synthesis' does not have a crafting_machine_tint set!
+  39.869 Script @__angelspetrochem__/prototypes/petrochem-global-override.lua:13: Recipe 'hydrogen-cyanide-synthesis' does not have a crafting_machine_tint set!
+  39.870 Script @__angelspetrochem__/prototypes/petrochem-global-override.lua:13: Recipe 'liquid-plastic-pmma' does not have a crafting_machine_tint set!
+  39.870 Script @__angelspetrochem__/prototypes/petrochem-global-override.lua:13: Recipe 'liquid-fuel-oil-catalyst' does not have a crafting_machine_tint set!
+  39.870 Script @__angelspetrochem__/prototypes/petrochem-global-override.lua:13: Recipe 'PF-resin' does not have a crafting_machine_tint set!
+  39.870 Script @__angelspetrochem__/prototypes/petrochem-global-override.lua:13: Recipe 'pmma-glass' does not have a crafting_machine_tint set!
+  39.870 Script @__angelspetrochem__/prototypes/petrochem-global-override.lua:13: Recipe 'pc-glass' does not have a crafting_machine_tint set!
+  39.871 Script @__angelspetrochem__/prototypes/petrochem-global-override.lua:13: Recipe 'Bacterial-Anerobic-Fermentation' does not have a crafting_machine_tint set!
+  39.871 Script @__angelspetrochem__/prototypes/petrochem-global-override.lua:13: Recipe 'lactic-acid-esterification' does not have a crafting_machine_tint set!
+  39.871 Script @__angelspetrochem__/prototypes/petrochem-global-override.lua:13: Recipe 'bacterial-growth-seed-cultivation' does not have a crafting_machine_tint set!
+  39.871 Script @__angelspetrochem__/prototypes/petrochem-global-override.lua:13: Recipe 'bacterial-growth-seed-cultivation-2' does not have a crafting_machine_tint set!
+  39.871 Script @__angelspetrochem__/prototypes/petrochem-global-override.lua:13: Recipe 'butadiene-chlorination' does not have a crafting_machine_tint set!
+  39.872 Script @__angelspetrochem__/prototypes/petrochem-global-override.lua:13: Recipe 'dichlorobutene-dechlorination' does not have a crafting_machine_tint set!
+  39.872 Script @__angelspetrochem__/prototypes/petrochem-global-override.lua:13: Recipe 'liquid-rubber-2' does not have a crafting_machine_tint set!
+  39.872 Script @__angelspetrochem__/prototypes/petrochem-global-override.lua:13: Recipe 'acetylene-diomerisation' does not have a crafting_machine_tint set!
+  39.872 Script @__angelspetrochem__/prototypes/petrochem-global-override.lua:13: Recipe 'vinyl-acetlyene-chlorination' does not have a crafting_machine_tint set!
+  39.873 Script @__angelspetrochem__/prototypes/petrochem-global-override.lua:13: Recipe 'rubber-additive-1' does not have a crafting_machine_tint set!
+  39.873 Script @__angelspetrochem__/prototypes/petrochem-global-override.lua:13: Recipe 'rubber-additive-2' does not have a crafting_machine_tint set!
+  39.873 Script @__angelspetrochem__/prototypes/petrochem-global-override.lua:13: Recipe 'rubber-block-molding' does not have a crafting_machine_tint set!
+  39.873 Script @__angelspetrochem__/prototypes/petrochem-global-override.lua:13: Recipe 'rubber-masterbatching' does not have a crafting_machine_tint set!
+  39.873 Script @__angelspetrochem__/prototypes/petrochem-global-override.lua:13: Recipe 'pre-rubber-mixing' does not have a crafting_machine_tint set!
+  40.705 Loading mod angelssmelting 0.6.14 (data-final-fixes.lua)
+  41.515 Loading mod angelsindustries 0.4.11 (data-final-fixes.lua)
+  42.337 Loading mod PCPRedux 1.0.3 (data-final-fixes.lua)
+  43.160 Loading mod angelsaddons-mobility 0.0.6 (data-final-fixes.lua)
+  43.958 Loading mod bobangel2021 0.2.3 (data-final-fixes.lua)
+  43.961 Script @__boblibrary__/technology-functions.lua:572: stack traceback:
+	__boblibrary__/technology-functions.lua:572: in function 'replace_prerequisite'
+	__bobangel2021__/prototypes/techfixes.lua:2: in main chunk
+	[C]: in function 'require'
+	__bobangel2021__/data-final-fixes.lua:1: in main chunk
+  43.962 Script @__boblibrary__/error-functions.lua:13: Old prerequisite technology tech-specialised-labs-basic-war-1 does not exist.
+  43.962 Script @__boblibrary__/error-functions.lua:13: New prerequisite technology angels-components-weapons-basic does not exist.
+  43.962 Script @__boblibrary__/technology-functions.lua:133: stack traceback:
+	__boblibrary__/technology-functions.lua:133: in function 'replace_science_pack'
+	__bobangel2021__/prototypes/techfixes.lua:3: in main chunk
+	[C]: in function 'require'
+	__bobangel2021__/data-final-fixes.lua:1: in main chunk
+  43.963 Script @__boblibrary__/error-functions.lua:72: Old science pack angels-science-pack-red does not exist.
+  43.963 Script @__boblibrary__/error-functions.lua:72: New science pack angels-science-pack-grey does not exist.
+  43.963 Script @__boblibrary__/technology-functions.lua:133: stack traceback:
+	__boblibrary__/technology-functions.lua:133: in function 'replace_science_pack'
+	__bobangel2021__/prototypes/techfixes.lua:4: in main chunk
+	[C]: in function 'require'
+	__bobangel2021__/data-final-fixes.lua:1: in main chunk
+  43.963 Script @__boblibrary__/error-functions.lua:72: Old science pack datacore-war-1 does not exist.
+  43.964 Script @__boblibrary__/error-functions.lua:72: New science pack datacore-basic does not exist.
+  43.964 Script @__boblibrary__/technology-functions.lua:133: stack traceback:
+	__boblibrary__/technology-functions.lua:133: in function 'replace_science_pack'
+	__bobangel2021__/prototypes/techfixes.lua:8: in main chunk
+	[C]: in function 'require'
+	__bobangel2021__/data-final-fixes.lua:1: in main chunk
+  43.964 Script @__boblibrary__/error-functions.lua:72: Old science pack angels-science-pack-green does not exist.
+  43.964 Script @__boblibrary__/error-functions.lua:72: New science pack angels-science-pack-red does not exist.
+  44.799 Checksum for core: 2219047882
+  44.799 Checksum of base: 3777792092
+  44.800 Checksum of EvoGUI: 3279161307
+  44.800 Checksum of WideChestsLogistic: 0
+  44.800 Checksum of AfraidOfTheDark: 2330519148
+  44.800 Checksum of alien-biomes-hr-terrain: 2010945986
+  44.800 Checksum of angelsaddons-nilaus: 4090443176
+  44.801 Checksum of angelsaddons-shred: 2264087385
+  44.801 Checksum of bobenemies: 167729370
+  44.801 Checksum of bobinserters: 4054870846
+  44.801 Checksum of boblibrary: 623178000
+  44.801 Checksum of CleanFloor: 3587476959
+  44.802 Checksum of Exoskeleton Mark II: 3945404679
+  44.802 Checksum of flib: 2887125953
+  44.802 Checksum of FNEI: 3619919004
+  44.802 Checksum of helmod: 507418660
+  44.803 Checksum of stdlib: 0
+  44.803 Checksum of Todo-List: 3021069362
+  44.803 Checksum of Yuoki: 2857583522
+  44.803 Checksum of alien-biomes: 1192846167
+  44.804 Checksum of bobequipment: 3230515068
+  44.804 Checksum of boblocale: 0
+  44.804 Checksum of bobores: 2992663872
+  44.804 Checksum of bobtech: 2499498462
+  44.804 Checksum of LogisticTrainNetwork: 386137555
+  44.805 Checksum of Nanobots: 216522827
+  44.805 Checksum of bobplates: 3973865615
+  44.805 Checksum of rso-mod: 2466986368
+  44.805 Checksum of bobassembly: 835830124
+  44.806 Checksum of bobelectronics: 1299699380
+  44.806 Checksum of boblogistics: 3415046293
+  44.806 Checksum of bobmining: 2891598151
+  44.806 Checksum of bobpower: 240450893
+  44.807 Checksum of bobrevamp: 602983581
+  44.807 Checksum of bobwarfare: 424887240
+  44.807 Checksum of Actual_Craft_Time: 3068536029
+  44.807 Checksum of angelsrefining: 3739393258
+  44.808 Checksum of blueprint_flip_and_turn: 1320428747
+  44.808 Checksum of bobmodules: 4146003756
+  44.808 Checksum of bobvehicleequipment: 1057191767
+  44.808 Checksum of miniloader: 4161913259
+  44.808 Checksum of WideChests: 4255944274
+  44.809 Checksum of angelsinfiniteores: 1673571822
+  44.809 Checksum of angelspetrochem: 4249382811
+  44.809 Checksum of Squeak Through: 2759453103
+  44.809 Checksum of angelsaddons-storage: 3643597057
+  44.809 Checksum of angelssmelting: 895228664
+  44.810 Checksum of angelsbioprocessing: 1663663836
+  44.810 Checksum of angelsindustries: 465891211
+  44.810 Checksum of PCPRedux: 721885193
+  44.810 Checksum of angelsaddons-cab: 4037355868
+  44.811 Checksum of angelsaddons-mobility: 2031025111
+  44.811 Checksum of angelsexploration: 637657433
+  44.811 Checksum of angelsaddons-newlocales: 0
+  44.811 Checksum of bobangel2021: 2536294379
+  45.820 Prototype list checksum: 4081339800
+  46.366 Info PlayerData.cpp:73: Local player-data.json unavailable
+  46.367 Info PlayerData.cpp:78: Cloud player-data.json unavailable
+  46.368 Factorio initialised
+  46.376 Info ServerSynchronizer.cpp:29: nextHeartbeatSequenceNumber(0) initialized Synchronizer nextTickClosureTick(0).
+  46.376 Info ServerMultiplayerManager.cpp:780: updateTick(4294967295) changing state from(Ready) to(PreparedToHostGame)
+  46.377 Info ServerMultiplayerManager.cpp:780: updateTick(4294967295) changing state from(PreparedToHostGame) to(CreatingGame)
+  46.378 Loading map /factorio/saves/ModdedFunTime.zip: 12033895 bytes.
+  47.089 Loading level.dat: 40262495 bytes.
+  47.102 Info Scenario.cpp:197: Map version 1.1.27-0
+  47.623 Loading script.dat: 4057533 bytes.
+  47.672 Checksum for script /factorio/temp/currently-playing/control.lua: 1735894310
+  47.683 Checksum for script __EvoGUI__/control.lua: 759905060
+  47.685 Checksum for script __AfraidOfTheDark__/control.lua: 2322376383
+  47.686 Checksum for script __angelsaddons-nilaus__/control.lua: 51298445
+  47.687 Checksum for script __angelsaddons-shred__/control.lua: 1663642173
+  47.691 Checksum for script __bobinserters__/control.lua: 1409446246
+  47.692 Checksum for script __Exoskeleton Mark II__/control.lua: 1721119163
+  47.723 Checksum for script __FNEI__/control.lua: 1164950527
+  47.801 Checksum for script __helmod__/control.lua: 2350297159
+  47.816 Checksum for script __Todo-List__/control.lua: 3227430772
+  47.818 Checksum for script __Yuoki__/control.lua: 3462243838
+  47.819 Checksum for script __bobores__/control.lua: 3649119228
+  47.820 Checksum for script __bobtech__/control.lua: 1670315541
+  47.834 Checksum for script __LogisticTrainNetwork__/control.lua: 1586748109
+  47.865 Checksum for script __Nanobots__/control.lua: 1629049279
+  47.866 Checksum for script __bobplates__/control.lua: 2137047030
+  47.925 Checksum for script __rso-mod__/control.lua: 569562479
+  47.926 Checksum for script __boblogistics__/control.lua: 1263717110
+  47.929 Checksum for script __Actual_Craft_Time__/control.lua: 2776739743
+  47.930 Checksum for script __angelsrefining__/control.lua: 1120588588
+  47.932 Script @__blueprint_flip_and_turn__/modwarning.lua:9: COOL log exists !
+  47.935 Checksum for script __blueprint_flip_and_turn__/control.lua: 455899406
+  47.936 Checksum for script __bobmodules__/control.lua: 2631476355
+  47.947 Checksum for script __miniloader__/control.lua: 2263722597
+  47.952 Checksum for script __WideChests__/control.lua: 655302803
+  47.953 Checksum for script __angelsindustries__/control.lua: 2715900067
+  47.957 Checksum for script __angelsaddons-cab__/control.lua: 3628013208
+  47.959 Checksum for script __angelsaddons-mobility__/control.lua: 325450066
+  48.151 Info UDPSocket.cpp:27: Opening socket at (IP ADDR:({0.0.0.0:34197}))
+  48.152 Hosting game at IP ADDR:({0.0.0.0:34197})
+  48.152 Info HttpSharedState.cpp:54: Downloading https://auth.factorio.com/generate-server-padlock-2?api_version=4
+  48.583 Info AuthServerConnector.cpp:68: Obtained serverPadlock for serverHash (KSFaWDrCN3aT6LbHEmJoEjk4qGwXHqVq) from the auth server.
+  48.584 Info ServerMultiplayerManager.cpp:780: updateTick(3922360) changing state from(CreatingGame) to(InGame)
+  48.664 Info ServerRouter.cpp:636: Asking pingpong servers (pingpong1.factorio.com:34197, pingpong2.factorio.com:34197, pingpong3.factorio.com:34197, pingpong4.factorio.com:34197) for own address
+  48.664 Info UDPSocket.cpp:39: Opening socket for broadcast
+  48.665 Error InterruptibleStdioStream.cpp:61: Got EOF on stdin; closing
+  48.665 Info RemoteCommandProcessor.cpp:131: Starting RCON interface at IP ADDR:({0.0.0.0:27015})
+  48.665 Info CommandLineMultiplayer.cpp:278: Maximum segment size = 100; minimum segment size = 25; maximum-segment-size peer count = 10; minimum-segment-size peer count = 20
+  48.750 Info ServerRouter.cpp:519: Own address is IP ADDR:({71.199.29.62:54537}) (confirmed by pingpong3)
+  48.767 Error ServerMultiplayerManager.cpp:717: Matching server connection failed: Error when creating server game: Missing token.
+  48.818 Info ServerRouter.cpp:519: Own address is IP ADDR:({71.199.29.62:54537}) (confirmed by pingpong4)
+  48.852 Info ServerRouter.cpp:519: Own address is IP ADDR:({71.199.29.62:54537}) (confirmed by pingpong2)
+ 504.324 Received SIGTERM, shutting down
+ 504.325 Quitting: signal.
+ 504.325 Info MainLoop.cpp:417: Saving map as /factorio/saves/ModdedFunTime.zip
+ 505.368 Info MainLoop.cpp:428: Saving progress: 0.019084%
+ 505.426 Info MainLoop.cpp:428: Saving progress: 100.000000%
+ 505.638 Info ServerMultiplayerManager.cpp:113: Disconnecting multiplayer connection.
+ 505.638 Info ServerMultiplayerManager.cpp:780: updateTick(3922360) changing state from(InGame) to(DisconnectingScheduled)
+ 505.672 Info ServerMultiplayerManager.cpp:780: updateTick(3922360) changing state from(DisconnectingScheduled) to(Disconnecting)
+ 505.706 Info ServerMultiplayerManager.cpp:780: updateTick(3922360) changing state from(Disconnecting) to(Disconnected)
+ 505.706 Info ServerMultiplayerManager.cpp:140: Quitting multiplayer connection.
+ 505.707 Info ServerMultiplayerManager.cpp:780: updateTick(3922360) changing state from(Disconnected) to(Closed)
+ 506.275 Info UDPSocket.cpp:218: Closing socket
+ 506.275 Info UDPSocket.cpp:248: Socket closed
+ 506.275 Info UDPSocket.cpp:218: Closing socket
+ 506.286 Info UDPSocket.cpp:218: Closing socket
+ 506.286 Info UDPSocket.cpp:248: Socket closed
+ 506.458 Goodbye
