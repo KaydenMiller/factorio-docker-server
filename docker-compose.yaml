@@ -1,0 +1,19 @@
+﻿version: "3.8"
+
+services:
+  factorio:
+    container_name: FactorioServer
+    image: factoriotools/factorio:latest
+    ports:
+      - "34197:34197/udp"
+      - "27015:27015/tcp"
+    volumes:
+      - ./factorio:/factorio
+      - ./Mods:/factorio/mods
+      - ./Saves:/factorio/saves
+      - ./server-settings.json:/factorio/config/server-settings.json
+    environment:
+      - UPDATE_MODS_ON_START
+      - USERNAME
+      - TOKEN
+      - SAVE_NAME
